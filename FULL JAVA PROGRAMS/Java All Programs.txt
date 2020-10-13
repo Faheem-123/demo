@@ -1,0 +1,87 @@
+Problem 1:Write a program to find age?
+Problem 2:Write a program to fine even and odd number?
+Problem 3:check greater or less b/w two numbers?
+Problem 4:check greater or less b/w three numbers?
+Problem 5:Write a program to check temperatur?
+Problem 6:Write a program to swip two numbers using third variable?
+Problem 7:Write a program to swip two numbers?
+Problem 8:Generate Marksheet?
+Problem 9:Write a program to check vovel or consonant?
+Problem 10:write a program to check day by putting  integer?
+Problem 11:write a program to check day by using scanner?
+Problem 12:write a program to check bill of cosument units?
+problem 13:write a program of leap year?
+
+
+Problem 14:write a program to generate a series of increment?
+Problem 15:write a prorgam to generate a series of decrement?
+Problem 16:write a prorgam to generate even series?
+Problem 17:write a prorgam to generate odd series?
+Problem 18:write a prorgam to generate a table using while?
+problem 19:write a program to generate a table using for?
+problem 20:write a program to generate factorial number?
+problem 21:write a program to find factorial by decrement?
+problem 22:write a program to find factors of a number?
+problem 23:write a program to find factors by using while?
+problem 24:write a program to find a prime number?
+problem 25:write a program to find a primse series?
+problem 26:write a program to calculate common factors between two numbers?
+problem 27:write a program to design following shape.
+
+10   1   9
+8    3   5
+6    5   1
+
+problem 28:write a program to design following shape.
+
+1    1     0
+2    4     6
+3    9     24
+4    16    60
+
+problem 29:write a program to create a caculator using using switch?
+problem 30:write a program to create a caculator using using if?
+problem 31:write a program to inverse a number?
+problem 32:write a program to reverse a name?
+problem 33:Reverse a name by scanner?
+problem 34:WAP to generate fabonic series?
+problem 35:WAP to find palindrome number?
+problem 35:WAP to design following shape?
+*
+* *
+* * *
+* * * *
+problem 36:WAP to design following shape?
+* * * *
+* * *
+* *
+*
+problem 37:WAP to design following shape?
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+problem 38:WAP to design following shape?
+      *
+    * *
+  * * *
+* * * *
+problem 39:WAP to design following shape?
+problem 40:write a program that shows electricity bill?
+problem 41:write a program tha shows how many 100s,500s,1000s in a number?
+problem 42:write a program odd series using do while?
+problem 43:write a program of composite series?
+problem 44:Generate a fabonic series?
+problem 45:Write a program that shows number is palindrome or not?
+problem 46:Find number is arsmtrong or not?
+problem 47:Show the matrix?
+1   1   0
+2   4   6
+3   9  24
+4  16  60
+
+
+problem 48:

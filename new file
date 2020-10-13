@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Function</title>
+</head>
+<body>
+<script>
+function multiplication(width,height)
+{
+area =width*heigth;
+return area;
+}
+document.write(multiplication(12,4))
+</script>
+</body>
+</html>
